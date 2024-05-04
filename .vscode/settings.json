@@ -1,0 +1,22 @@
+{
+  "liveServer.settings.port": 5501,
+  "liveSassCompile.settings.autoprefix": [
+
+  ],
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../",
+      
+    },{
+      "format": "compressed",
+      "extensionName": ".app.css",
+      "savePath":"~/../"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.includeItems":[
+    "/css/scss/*.scss"
+  ]
+}
